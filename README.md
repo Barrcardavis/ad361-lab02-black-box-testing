@@ -31,21 +31,21 @@ The purpose of this test is to verify that users can successfully sign in with v
 Equivalence partitioning reduces the number of tests required by grouping similar inputs into categories and selecting one representative value from each category.
 
 ## Step 3: Decision Table Testing
-Feature Tested
+### Feature Tested
 
 Amazon Account Sign-In
 
-Conditions
+### Conditions
 Account exists?
 Password is correct?
-Actions
+### Actions
 Allow sign-in
 Display error message
-Decision Table
+### Decision Table
 <img width="764" height="183" alt="image" src="https://github.com/user-attachments/assets/2c6d4219-65d4-4e0c-ab9f-1c73942ceb12" />
-Test Cases
+### Test Cases
 <img width="770" height="185" alt="image" src="https://github.com/user-attachments/assets/3e43261f-5677-4017-9339-0af25a0bc4a7" />
-Conclusion
+### Conclusion
 
 Decision table testing ensures that all combinations of conditions are evaluated and that the correct action occurs for each possible scenario.
 
