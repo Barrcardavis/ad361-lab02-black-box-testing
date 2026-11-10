@@ -69,8 +69,10 @@ User retries sign-in
 User signs out
 ### State Transition Table
 <img width="759" height="257" alt="image" src="https://github.com/user-attachments/assets/6128b374-d45e-4dd0-bb54-3b8ccfa06963" />
+
 ### Test Cases
 <img width="768" height="224" alt="image" src="https://github.com/user-attachments/assets/78fa52ee-82e2-4ab2-b897-f1370b95c463" />
+
 ### Conclusion
 
 State transition testing verifies that the sign-in process moves correctly between states and properly handles both valid and invalid user actions.
