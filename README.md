@@ -36,8 +36,8 @@ Equivalence partitioning reduces the number of tests required by grouping simila
 Amazon Account Sign-In
 
 ### Conditions
-Account exists?
-Password is correct?
+ Account exists?
+ Password is correct?
 ### Actions
 Allow sign-in
 Display error message
