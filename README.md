@@ -22,6 +22,7 @@ The purpose of this test is to verify that users can successfully sign in with v
 
 ### Valid Partitions
 <img width="767" height="150" alt="image" src="https://github.com/user-attachments/assets/5118ddee-59fd-476c-ae6b-2984785aed7b" />
+
 ### Invalid Partitions
 <img width="767" height="221" alt="image" src="https://github.com/user-attachments/assets/a12315a5-ae55-460c-87be-90d473319894" />
 ### Conclusion
