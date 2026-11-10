@@ -52,22 +52,22 @@ Display error message
 Decision table testing ensures that all combinations of conditions are evaluated and that the correct action occurs for each possible scenario.
 
 ## Step 4: State Transition Testing
-Feature Tested
+### Feature Tested
 
 Amazon Account Sign-In
 
-States
+### States
 Signed Out
 Entering Credentials
 Signed In
 Authentication Error
-Events
+### Events
 User selects Sign In
 User enters valid credentials
 User enters invalid credentials
 User retries sign-in
 User signs out
-State Transition Table
+### State Transition Table
 <img width="759" height="257" alt="image" src="https://github.com/user-attachments/assets/6128b374-d45e-4dd0-bb54-3b8ccfa06963" />
 Test Cases
 <img width="768" height="224" alt="image" src="https://github.com/user-attachments/assets/78fa52ee-82e2-4ab2-b897-f1370b95c463" />
