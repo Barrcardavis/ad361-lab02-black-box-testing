@@ -14,17 +14,17 @@ User Authentication
 Testing Approach: This lab uses black-box testing techniques to evaluate the Amazon Account Sign-In feature without viewing or using the website's source code.
 
 ## Step 2: Equivalence Partitioning
-Feature Tested
+### Feature Tested
 
 Amazon Account Sign-In
 
 The purpose of this test is to verify that users can successfully sign in with valid credentials and receive appropriate feedback when invalid credentials are used.
 
-Valid Partitions
+### Valid Partitions
 <img width="767" height="150" alt="image" src="https://github.com/user-attachments/assets/5118ddee-59fd-476c-ae6b-2984785aed7b" />
-Invalid Partitions
+### Invalid Partitions
 <img width="767" height="221" alt="image" src="https://github.com/user-attachments/assets/a12315a5-ae55-460c-87be-90d473319894" />
-Conclusion
+### Conclusion
 
 Equivalence partitioning reduces the number of tests required by grouping similar inputs into categories and selecting one representative value from each category.
 
