@@ -37,9 +37,11 @@ Amazon Account Sign-In
 
 ### Conditions
  Account exists?
+ 
  Password is correct?
 ### Actions
 Allow sign-in
+
 Display error message
 ### Decision Table
 <img width="764" height="183" alt="image" src="https://github.com/user-attachments/assets/2c6d4219-65d4-4e0c-ab9f-1c73942ceb12" />
