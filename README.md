@@ -60,15 +60,24 @@ Amazon Account Sign-In
 
 ### States
 Signed Out
+
 Entering Credentials
+
 Signed In
+
 Authentication Error
+
 ### Events
 User selects Sign In
+
 User enters valid credentials
+
 User enters invalid credentials
+
 User retries sign-in
+
 User signs out
+
 ### State Transition Table
 <img width="759" height="257" alt="image" src="https://github.com/user-attachments/assets/6128b374-d45e-4dd0-bb54-3b8ccfa06963" />
 
