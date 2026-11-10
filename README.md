@@ -1,12 +1,12 @@
-# ad361-lab02-black-box-testing
+# AD361-lab02-black-box-testing
 
 ## Step 1: Select a Website
 
-Website Name: Amazon
+#### Website Name: Amazon
 
-Website URL: https://www.amazon.com
+#### Website URL: https://www.amazon.com
 
-Feature(s) to Test:
+#### Feature(s) to Test:
 
 Amazon Account Sign-In
 User Authentication
