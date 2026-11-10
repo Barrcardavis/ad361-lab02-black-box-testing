@@ -25,6 +25,7 @@ The purpose of this test is to verify that users can successfully sign in with v
 
 ### Invalid Partitions
 <img width="767" height="221" alt="image" src="https://github.com/user-attachments/assets/a12315a5-ae55-460c-87be-90d473319894" />
+
 ### Conclusion
 
 Equivalence partitioning reduces the number of tests required by grouping similar inputs into categories and selecting one representative value from each category.
